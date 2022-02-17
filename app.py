@@ -41,12 +41,12 @@ try:
     Stalk_surface_below_ring = st.selectbox("STALK_SURFACE_BELOW_RING", ["", "fibrous", "scaly", "silky", "smooth"])
 
     Stalk_color_above_ring = st.selectbox("STALK_COLOR_ABOVE_RING",
-                                          ["", "brown", "buff", "cinnamon", "gray", "orange", "pink", "purple", "red",
-                                           "white", "yellow", "orange"])
+                                          ["", "brown", "buff", "cinnamon", "gray", "orange", "pink", "red",
+                                           "white", "yellow",])
 
     Stalk_color_below_ring = st.selectbox("STALK_COLOR_BELOW_RING",
-                                          ["", "brown", "buff", "cinnamon", "gray", "orange", "pink", "red", "purple",
-                                           "red", "white", "yellow", "orange"])
+                                          ["", "brown", "buff", "cinnamon", "gray", "orange", "pink", "red",
+                                           "red", "white", "yellow",])
 
     Veil_type = st.selectbox("VEIL_Type", ["", "partial"])
 
