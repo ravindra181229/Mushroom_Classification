@@ -24,7 +24,7 @@ try:
                               "yellow"])
     Bruises = st.selectbox("BRUISES", ["", "no", "bruises"])
     Odor = st.selectbox("ODOR",
-                        ["", "none", "foul", "spicy", "fishy", "almond", "anise", "pungent", "creosote", "musty"])
+                        ["", "almond", "creosote", "fishy", "foul", "musty", "none", "pungent", "spicy"])
     Gill_attachment = st.selectbox("GILL_ATTACHMENT", ["", "attached", "free"])
     Gill_spacing = st.selectbox("GILL_SPACING", ["", "close", "crowded"])
     Gill_size = st.selectbox("GILL_SIZE", ["", "broad", "narrow"])
