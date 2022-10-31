@@ -47,4 +47,3 @@ virtualenvwrapper-win==1.2.6
 Werkzeug==2.0.2
 wrapt==1.12.1
 streamlit
-
